@@ -48,14 +48,11 @@ The dataset used in this project (`Cleaned_Consumption.csv`) contains structured
 - Supports informed decision-making and policy design.
 
   
-# Dashboard-1
-https://public.tableau.com/app/profile/niharika.sreekakulapu/viz/Project1_17715182575060/Dashboard1?publish=yes
-
-# Dashboard-2
-https://public.tableau.com/app/profile/niharika.sreekakulapu/viz/Project2_17715185976590/Dashboard2?publish=yes
+# Dashboard
+https://public.tableau.com/views/ElectricityConsumption_Final/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Story
-https://public.tableau.com/app/profile/niharika.sreekakulapu/viz/Story_17715186820350/Story1?publish=yes
+https://public.tableau.com/views/ElectricityConsumption_Final2/StoryonElectricityConsumption?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 🧑‍💻 Author
 
