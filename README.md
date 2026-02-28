@@ -59,7 +59,7 @@ https://public.tableau.com/app/profile/niharika.sreekakulapu/viz/Story_177151868
 
 ## 🧑‍💻 Author
 
-**Niharika Sreekakulapu**
+**Ravuri Jitendra Siva Naga Sri Harsha**
 
 Feel free to connect or contribute!
 
